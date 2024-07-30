@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin23123&label=Profile%20views&color=0e75b6&style=flat" alt="nitin23123" /> </p>
 
-- 🌱 I’m currently learning **node.js , backend ,mongodb**
+- 🌱 I’m currently learning :**node.js , backend ,mongodb**
 
-- 💬 Ask me about **react ,javascript , jquery ,bootstrap**
+- 💬 Ask me about: **react ,javascript , jquery ,bootstrap**
 
-- 📫 How to reach me **nitin23123@gmail.com**
+- 📫 How to reach me :**nitin23123@gmail.com**
 
-- ⚡ Fun fact **I once debugged code in my sleep - literally. Woke up with the solution!**
+- ⚡ Fun fact :**I once debugged code in my sleep - literally. Woke up with the solution!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
