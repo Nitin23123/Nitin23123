@@ -56,11 +56,11 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
   
   <br/>
   
-  <img src="https://github.com/Nitin23123/Nitin23123/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -72,6 +72,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="200" style="object-fit: cover;" alt="Matrix Rain" />
   <p><i>Let's connect and build something amazing together!</i></p>
 </div>
