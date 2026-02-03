@@ -38,9 +38,21 @@
 ---
 
 ### 📊 GitHub Stats
+  <br/>
+  <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/master/profile-summary-card-output/radical/2-productive-time.svg" alt="Productive Time" />
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
+  <h3>🎵 My Coding Jams</h3>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=radical&show_offline=true&background_color=0d1117&interchange=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=radical&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify" />
+  </a>
+  <p><i>(Edit README to add your Spotify UID)</i></p>
+</div>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
