@@ -1,14 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-017631cc-02d2-45e0-9426-5b4819d20c58.gif" width="100%" alt="Cyberpunk City" />
+  <h1>Hi, I'm Nitin Tanwar</h1>
+  <h3>Full-Stack Engineer @ Novus Aegis AI | MCA @ CDAC Noida | Web, Backend & AI Integration</h3>
   
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3F88C5&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Nitin+Tanwar;Full+Stack+Developer;MCA+Student;Open+Source+Enthusiast" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+with+modern+technologies.;Always+learning,+always+coding." alt="Subtyping" /></a>
-  </p>
-
   <br/>
 
   <p align="center">
@@ -41,10 +34,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 **MCA Student** at CDAC Noida.
-- 💻 Energetic **Full-Stack Developer** specializing in the MERN stack.
-- 🔭 Currently working on **AI-powered web applications**.
+- 💼 **Full-Stack Engineer** at **Novus Aegis AI**.
+- 💻 Passionate about **Web Development, Backend Systems, and AI Integration**.
+- 🔭 Currently building scalable **AI-powered solutions**.
 - 🌱 Learning **DevOps practices (Docker, CI/CD)** and **System Design**.
-- 👯 Looking to collaborate on **Open Source projects** and **AI tools**.
 - ⚡ Fun fact: **I love experimenting with AI to automate my daily workflows!**
 
 ---
