@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="./assets/skills_marquee.svg" width="100%" alt="Skills Marquee" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&perline=15" />
 </div>
 
 ---
