@@ -32,9 +32,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10" loop="infinite">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python" />
-  </marquee>
+  <img src="./assets/skills_marquee.svg" width="100%" alt="Skills Marquee" />
 </div>
 
 ---
