@@ -39,16 +39,10 @@
 
 ### 📊 GitHub Stats
   <br/>
-  <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/master/profile-summary-card-output/radical/2-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/main/profile-summary-card-output/radical/2-productive-time.svg" alt="Productive Time" />
 </div>
 
-<div align="center">
-  <h3>🎵 My Coding Jams</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=radical&show_offline=true&background_color=0d1117&interchange=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=radical&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify" />
-  </a>
-  <p><i>(Edit README to add your Spotify UID)</i></p>
-</div>
+
 
 ---
 
