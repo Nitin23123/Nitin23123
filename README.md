@@ -1,30 +1,79 @@
-# Hi 👋, I'm Nitin Tanwar
+<div align="center">
+ 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3F88C5&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Nitin+Tanwar;Full+Stack+Developer;MCA+Student;Open+Source+Enthusiast" alt="Typing SVG" />
 
-### MCA Student @ CDAC Noida | JavaScript • React • Backend Development
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+with+modern+technologies.;Always+learning,+always+coding." alt="Subtyping" /></a>
+  </p>
 
-- 🔭 I'm currently working on **Currently working on full-stack projects using React, Node.js, MongoDB, and AI tools**
+  <p align="center">
+    <a href="https://github.com/Nitin23123">
+      <img src="https://komarev.com/ghpvc/?username=Nitin23123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+    </a>
+  </p>
 
-- 🌱 I'm currently learning **DevOps practices and System Design fundamentals**
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/nitin-tanwar-535018303/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://x.com/NitinTanwar2003">
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a>
+     <a href="mailto:Nitin23123@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
 
-- 👯 I'm looking to collaborate on **I’m looking to collaborate on web applications with AI-powered features**
+</div>
 
-- 🤝 I'm looking for help with **learning system design**
+---
 
-- 💬 Ask me about **JavaScript, React, and backend development**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **Nitin23123@gmail.com**
+- 🎓 **MCA Student** at CDAC Noida.
+- 💻 Energetic **Full-Stack Developer** specializing in the MERN stack.
+- 🔭 Currently working on **AI-powered web applications**.
+- 🌱 Learning **DevOps practices (Docker, CI/CD)** and **System Design**.
+- 👯 Looking to collaborate on **Open Source projects** and **AI tools**.
+- ⚡ Fun fact: **I love experimenting with AI to automate my daily workflows!**
 
-- ⚡ Fun fact **I love experimenting with AI tools to boost development productivity**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Nitin23123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Nitin23123" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nitin-tanwar-535018303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-tanwar-535018303/" height="30" width="40" /></a>
-<a href="https://x.com/NitinTanwar2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/NitinTanwar2003" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/KIYPYS0FlX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/KIYPYS0FlX/" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&perline=10" />
+</div>
 
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" alt="Nitin's Stats" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://leetcode.com/u/KIYPYS0FlX/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
+
+<div align="center">
+  <p><i>Let's connect and build something amazing together!</i></p>
+</div>
