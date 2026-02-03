@@ -1,26 +1,18 @@
 <div align="center">
   <h1>Hi, I'm Nitin Tanwar</h1>
   <h3>Full-Stack Engineer @ Novus Aegis AI | MCA @ CDAC Noida | Web, Backend & AI Integration</h3>
-  
-  <br/>
-
   <p align="center">
-    <a href="https://github.com/Nitin23123">
-      <img src="https://komarev.com/ghpvc/?username=Nitin23123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-    </a>
+    <a href="https://github.com/Nitin23123"><img src="https://komarev.com/ghpvc/?username=Nitin23123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></a>
   </p>
-
   <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/nitin-tanwar-535018303/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://x.com/NitinTanwar2003">
-      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-    </a>
-     <a href="mailto:Nitin23123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/nitin-tanwar-535018303/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://x.com/NitinTanwar2003"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
+    <a href="mailto:Nitin23123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+    <a href="https://leetcode.com/u/KIYPYS0FlX/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </div>
+</div>
+
+
 
 </div>
 
@@ -40,30 +32,17 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&perline=15" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
-  
-  <br/>
-  
   <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://leetcode.com/u/KIYPYS0FlX/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
 </div>
 
 <div align="center">
