@@ -1,10 +1,18 @@
 <div align="center">
- 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif" />
+  
+  <br/>
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3F88C5&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Nitin+Tanwar;Full+Stack+Developer;MCA+Student;Open+Source+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+with+modern+technologies.;Always+learning,+always+coding." alt="Subtyping" /></a>
   </p>
+
+  <p align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitin23123&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Nitin23123" /></a>
+  </p>
+
 
   <p align="center">
     <a href="https://github.com/Nitin23123">
@@ -54,6 +62,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github.com/Nitin23123/Nitin23123/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
