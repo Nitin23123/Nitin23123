@@ -50,10 +50,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
 </div>
 
 ---
