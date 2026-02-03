@@ -1,7 +1,0 @@
-<svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g>
-    <image xlink:href="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&amp;perline=19" x="0" y="0" height="50" />
-    <image xlink:href="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&amp;perline=19" x="950" y="0" height="50" />
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-950 0" dur="20s" repeatCount="indefinite" />
-  </g>
-</svg>

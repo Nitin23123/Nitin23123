@@ -38,9 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
-  <br/>
-  <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/main/profile-summary-card-output/radical/2-productive-time.svg" alt="Productive Time" />
-</div>
+
 
 
 
