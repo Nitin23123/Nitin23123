@@ -32,7 +32,9 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&perline=15" />
+  <marquee behavior="scroll" direction="left" scrollamount="10" loop="infinite">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python" />
+  </marquee>
 </div>
 
 ---
@@ -41,7 +43,6 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nitin23123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nitin23123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&ring_color=3F88C5" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Nitin23123&theme=radical&hide_border=true&background=0d1117&ring=3F88C5&fire=3F88C5&currStreakNum=3F88C5" alt="streak graph" />
   <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
