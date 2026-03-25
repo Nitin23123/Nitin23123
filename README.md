@@ -25,3 +25,4 @@ Currently exploring open source contribution and system design.
 | Project | Contribution | Status |
 |---|---|---|
 | [kana-dojo](https://github.com/lingdojo/kana-dojo) | Add Soba Slate community theme | Merged |
+| [physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/242) | Fix Cumulative Layout Shift on 8 pages | Merged |
