@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nitin Tanwar</h1>
-  <h3>Full-Stack Engineer | MCA @ CDAC Noida | GSoC 2026 Aspirant</h3>
+  <h3>Full-Stack Engineer | MCA @ CDAC Noida</h3>
   <p align="center">
     <a href="https://github.com/Nitin23123"><img src="https://komarev.com/ghpvc/?username=Nitin23123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></a>
   </p>
