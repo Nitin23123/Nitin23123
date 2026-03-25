@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Nitin Tanwar</h1>
-  <h3>Full-Stack Engineer @ Novus Aegis AI | MCA @ CDAC Noida | Web, Backend & AI Integration</h3>
+  <h1>Nitin Tanwar</h1>
+  <h3>Full-Stack Engineer | MCA @ CDAC Noida | GSoC 2026 Aspirant</h3>
   <p align="center">
     <a href="https://github.com/Nitin23123"><img src="https://komarev.com/ghpvc/?username=Nitin23123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></a>
   </p>
@@ -12,24 +12,15 @@
   </div>
 </div>
 
+---
 
+### About Me
 
-</div>
+Full-Stack Engineer at Novus Aegis AI, currently pursuing MCA at CDAC Noida. I work primarily with React, Next.js, and Node.js. Interested in web performance, backend systems, and AI integration. Currently contributing to open source as part of my GSoC 2026 preparation.
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 **MCA Student** at CDAC Noida.
-- 💼 **Full-Stack Engineer** at **Novus Aegis AI**.
-- 💻 Passionate about **Web Development, Backend Systems, and AI Integration**.
-- 🔭 Currently building scalable **AI-powered solutions**.
-- 🌱 Learning **DevOps practices (Docker, CI/CD)** and **System Design**.
-- ⚡ Fun fact: **I love experimenting with AI to automate my daily workflows!**
-
----
-
-### 🛠️ Tech Stack & Tools
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,bootstrap,git,github,vscode,postman,linux,cpp,java,python&perline=15" />
@@ -37,17 +28,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### Open Source Contributions
 
-
-
+| Project | Contribution | Status |
+|---|---|---|
+| [kana-dojo](https://github.com/lingdojo/kana-dojo) | Add Soba Slate community theme | Merged |
+| [physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/242) | Fix Cumulative Layout Shift on 8 pages | In Review |
+| [open-sparrow](https://github.com/wrobeltomasz/open-sparrow/pull/26) | Add 404 error page with navigation | In Review |
+| [Tryingtocode.com](https://github.com/Trying-Two-Code/Tryingtocode.com/pull/9) | Fix sidebar close animation | In Review |
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nitin23123/Nitin23123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  <p><i>Let's connect and build something amazing together!</i></p>
 </div>
