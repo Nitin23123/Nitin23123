@@ -33,9 +33,6 @@ Full-Stack Engineer at Novus Aegis AI, currently pursuing MCA at CDAC Noida. I w
 | Project | Contribution | Status |
 |---|---|---|
 | [kana-dojo](https://github.com/lingdojo/kana-dojo) | Add Soba Slate community theme | Merged |
-| [physicshub.github.io](https://github.com/physicshub/physicshub.github.io/pull/242) | Fix Cumulative Layout Shift on 8 pages | In Review |
-| [open-sparrow](https://github.com/wrobeltomasz/open-sparrow/pull/26) | Add 404 error page with navigation | In Review |
-| [Tryingtocode.com](https://github.com/Trying-Two-Code/Tryingtocode.com/pull/9) | Fix sidebar close animation | In Review |
 
 ---
 
