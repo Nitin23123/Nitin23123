@@ -12,13 +12,13 @@ Currently exploring open source contribution and system design.
 
 ### Tech Stack
 
-**Frontend** — React · Next.js · TypeScript · JavaScript · Tailwind · GSAP · Framer Motion
+**Languages** — JavaScript (ES6+) · C++ · SQL · HTML5 · CSS3
 
-**Backend** — Node.js · Express · PostgreSQL · MongoDB · REST APIs
+**Frontend** — React.js · Redux Toolkit · Tailwind CSS · Bootstrap · Framer Motion
 
-**Languages** — C++ · Python · Java
+**Backend** — Node.js · Express.js · RESTful APIs · PostgreSQL
 
-**Tools** — Git · Docker · Linux · Postman
+**Tools** — Git · GitHub Actions (CI/CD) · Docker · Postman · Vercel · Figma · Linux
 
 ---
 
