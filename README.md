@@ -6,7 +6,7 @@ I build web applications with a focus on performance, clean UI, and scalable bac
 
 Currently exploring open source contribution and system design.
 
-[LinkedIn](https://www.linkedin.com/in/nitin-tanwar-535018303/) · [Twitter](https://x.com/NitinTanwar2003) · [LeetCode](https://leetcode.com/u/KIYPYS0FlX/) · nitin23123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nitin-tanwar-535018303/) · [Twitter](https://x.com/NitinTanwar2003) · [LeetCode](https://leetcode.com/u/KIYPYS0FlX/) · [View My Resume](https://drive.google.com/file/d/1N3NwBM99rRofzxdHoO5VXEcfgcyJTTsh/view?usp=drive_link) · nitin23123@gmail.com
 
 ---
 
