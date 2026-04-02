@@ -1,4 +1,4 @@
-### Nitin Tanwar  [View My Resume](https://drive.google.com/file/d/1fmAZd_Ek4KXmN0APrPSkRBeYlifHHUU-/view)
+### Nitin Tanwar  [View My Resume](https://drive.google.com/file/d/1OssxAO4Yd474v4dPpxRj8ADBhp3cWtNV/view)
 
 Full-Stack Engineer at Novus Aegis AI. MCA student at CDAC Noida.
 
