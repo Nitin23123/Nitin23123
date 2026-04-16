@@ -1,9 +1,5 @@
 ### Nitin Tanwar  [View My Resume](https://drive.google.com/file/d/1OssxAO4Yd474v4dPpxRj8ADBhp3cWtNV/view)
 
-<p align="center">
-  <img src="assets/agentic-premier-league-badge.png" alt="Agentic Premier League - Google Cloud New Delhi - Participant" width="200"/>
-</p>
-
 Full-Stack Engineer at Novus Aegis AI. MCA student at CDAC Noida.
 
 I build web applications with a focus on performance, clean UI, and scalable backends.
@@ -35,4 +31,8 @@ Currently exploring open source contribution , devops and system design.
 | [open-sparrow](https://github.com/wrobeltomasz/open-sparrow/pull/26) | Add 404 error page with navigation | Merged |
 | [pulse-ai](https://github.com/Nitin23123/pulse-ai) | Add Dark/Light theme toggle | Merged |
 
+---
 
+<p align="center">
+  <img src="assets/agentic-premier-league-badge.png" alt="Agentic Premier League - Google Cloud New Delhi - Participant" width="100"/>
+</p>
