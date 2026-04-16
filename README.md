@@ -1,5 +1,9 @@
 ### Nitin Tanwar  [View My Resume](https://drive.google.com/file/d/1OssxAO4Yd474v4dPpxRj8ADBhp3cWtNV/view)
 
+<p align="center">
+  <img src="assets/agentic-premier-league-badge.png" alt="Agentic Premier League - Google Cloud New Delhi - Participant" width="200"/>
+</p>
+
 Full-Stack Engineer at Novus Aegis AI. MCA student at CDAC Noida.
 
 I build web applications with a focus on performance, clean UI, and scalable backends.
