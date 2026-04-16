@@ -33,6 +33,6 @@ Currently exploring open source contribution , devops and system design.
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="assets/agentic-premier-league-badge.png" alt="Agentic Premier League - Google Cloud New Delhi - Participant" width="100"/>
 </p>
