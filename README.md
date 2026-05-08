@@ -20,6 +20,8 @@ Currently exploring open source contribution , devops and system design.
 
 **Tools** — Git · GitHub Actions (CI/CD) · Docker · Postman · Vercel · Figma · Linux
 
+**Testing & Security** — Jest . Helmet . Rate Limiting . Express Validator . bcrypt . reCAPTCHA v3 . RBAC
+
 ---
 
 ### Open Source Contributions
