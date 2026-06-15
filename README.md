@@ -1,6 +1,6 @@
 ### Nitin Tanwar  [View My Resume](https://drive.google.com/file/d/1yHU8HvPrOW0-2AGfFsen8m5jeQWBJR0y/view)
 
-Full-Stack Engineer at Novus Aegis AI. MCA student at CDAC Noida.
+Full-Stack Engineer at Novus Aegis AI . MCA student at CDAC Noida.
 
 I build web applications with a focus on performance, clean UI, and scalable backends.
 
