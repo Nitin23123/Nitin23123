@@ -84,13 +84,12 @@ async function main() {
     ...rows,
   ].join('\n');
 
-  const stamp = new Date().toISOString().slice(0, 10);
   const block = [
     START,
     '',
     table,
     '',
-    `<sub>${visible.length} merged PRs across ${new Set(visible.map((p) => p.full)).size} projects · regenerated ${stamp} by [update-oss.mjs](.github/scripts/update-oss.mjs)</sub>`,
+    `<sub>${visible.length} merged PRs across ${new Set(visible.map((p) => p.full)).size} projects</sub>`,
     '',
     END,
   ].join('\n');

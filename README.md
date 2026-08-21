@@ -70,8 +70,6 @@ flowchart LR
     CI -.->|"gates main"| ROUTES
 ```
 
-<sub>The diagram is generated from the real tree, not aspiration: 14 pages, 16 components, 11 route modules, 6 controllers, 3 SQL migrations, 2 Dockerfiles, both images built on every push to <code>main</code>.</sub>
-
 ---
 
 ## Read the code, not the résumé
@@ -94,18 +92,13 @@ Anyone can list a stack. These are the specific places I would point a reviewer 
 | Project | Merged contribution | Stars | Date |
 |---|---|---:|---|
 | **[pulse-ai](https://github.com/glieai/pulse-ai)** | [#15](https://github.com/glieai/pulse-ai/pull/15) Apply saved theme to DOM on init | ★ 7 | 2026-03-26 |
-| **[kana-dojo](https://github.com/lingdojo/kana-dojo)** | [#10155](https://github.com/lingdojo/kana-dojo/pull/10155) Add Soba Slate theme | ★ 3,231 | 2026-03-25 |
+| **[kana-dojo](https://github.com/lingdojo/kana-dojo)** | [#10155](https://github.com/lingdojo/kana-dojo/pull/10155) Add Soba Slate theme | ★ 3,232 | 2026-03-25 |
 | **[OpenSparrow](https://github.com/wrobeltomasz/OpenSparrow)** | [#26](https://github.com/wrobeltomasz/OpenSparrow/pull/26) Add 404 page with Go Back to Home button | ★ 15 | 2026-03-25 |
 | **[physicshub.github.io](https://github.com/physicshub/physicshub.github.io)** | [#242](https://github.com/physicshub/physicshub.github.io/pull/242) Resolve CLS on 8 pages caused by Discord stats, Google Translate | ★ 59 | 2026-03-25 |
 
-<sub>4 merged PRs across 4 projects · regenerated 2026-08-21 by [update-oss.mjs](.github/scripts/update-oss.mjs)</sub>
+<sub>4 merged PRs across 4 projects</sub>
 
 <!-- OSS:END -->
-
-> This table is not maintained by hand. A [nightly Action](.github/workflows/oss.yml)
-> queries the GitHub API for merged PRs I authored in repos I don't own, enriches
-> each with live star counts, and commits the diff. It fails soft — a rate limit
-> leaves the table untouched rather than blanking my profile.
 
 ---
 
@@ -133,6 +126,7 @@ Interviewers ask this on the call. Here it is up front.
 | **Frontend** | React · Redux Toolkit · Tailwind CSS · Framer Motion · Three.js |
 | **Backend** | Node.js · Express · REST · PostgreSQL · JWT / OAuth |
 | **Infra** | Docker · GitHub Actions (CI/CD) · Linux · Vercel · Netlify · Render |
+| **System design** | Stateless auth & session strategy · REST resource modelling and API versioning · caching layers and CDN · DB indexing, normalisation, sharding · load balancing and horizontal scaling · queues and async jobs · consistency and CAP trade-offs |
 | **Hardening** | Helmet · rate limiting · express-validator · bcrypt · reCAPTCHA v3 · RBAC |
 | **Testing & tools** | Jest · Postman · Git · Figma |
 
