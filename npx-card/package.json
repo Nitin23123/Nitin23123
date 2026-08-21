@@ -1,0 +1,40 @@
+{
+  "name": "nitin-tanwar",
+  "version": "1.0.0",
+  "description": "Nitin Tanwar's business card, in your terminal. Run: npx nitin-tanwar",
+  "bin": {
+    "nitin-tanwar": "index.js"
+  },
+  "main": "index.js",
+  "type": "commonjs",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --json"
+  },
+  "keywords": [
+    "card",
+    "business-card",
+    "cli",
+    "npx",
+    "resume",
+    "portfolio",
+    "nitin-tanwar"
+  ],
+  "author": "Nitin Tanwar <nitin23123@gmail.com> (https://nitintanwar.vercel.app)",
+  "license": "MIT",
+  "homepage": "https://github.com/Nitin23123/Nitin23123#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitin23123/Nitin23123.git",
+    "directory": "npx-card"
+  },
+  "bugs": {
+    "url": "https://github.com/Nitin23123/Nitin23123/issues"
+  }
+}
