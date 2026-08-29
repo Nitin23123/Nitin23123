@@ -15,11 +15,11 @@
 
   <br>
 
-  <a href="https://nitintanwar.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-nitintanwar.vercel.app-0969da?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nitin-tanwar-535018303/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/NitinTanwar2003"><img alt="X" src="https://img.shields.io/badge/x-%40NitinTanwar2003-1f2328?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1yHU8HvPrOW0-2AGfFsen8m5jeQWBJR0y/view"><img alt="Résumé" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-PDF-1a7f37?style=flat-square&logo=readdotcv&logoColor=white"></a>
-  <a href="mailto:nitin23123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-nitin23123%40gmail.com-59636e?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://nitintanwar.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nitin-tanwar-535018303/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/NitinTanwar2003">X</a> &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1yHU8HvPrOW0-2AGfFsen8m5jeQWBJR0y/view">Résumé</a> &nbsp;·&nbsp;
+  <a href="mailto:nitin23123@gmail.com">Email</a>
 </div>
 
 <br>
