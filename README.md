@@ -93,7 +93,7 @@ Anyone can list a stack. These are the specific places I would point a reviewer 
 | Project | Merged contribution | Stars | Date |
 |---|---|---:|---|
 | **[pulse-ai](https://github.com/glieai/pulse-ai)** | [#15](https://github.com/glieai/pulse-ai/pull/15) Apply saved theme to DOM on init | ★ 7 | 2026-03-26 |
-| **[kana-dojo](https://github.com/lingdojo/kana-dojo)** | [#10155](https://github.com/lingdojo/kana-dojo/pull/10155) Add Soba Slate theme | ★ 3,296 | 2026-03-25 |
+| **[kana-dojo](https://github.com/lingdojo/kana-dojo)** | [#10155](https://github.com/lingdojo/kana-dojo/pull/10155) Add Soba Slate theme | ★ 3,302 | 2026-03-25 |
 | **[physicshub.github.io](https://github.com/physicshub/physicshub.github.io)** | [#242](https://github.com/physicshub/physicshub.github.io/pull/242) Resolve CLS on 8 pages caused by Discord stats, Google Translate | ★ 61 | 2026-03-25 |
 
 <sub>3 merged PRs across 3 projects</sub>
