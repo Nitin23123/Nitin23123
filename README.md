@@ -1,4 +1,3 @@
-
 <!--
   You opened the source. Respect.
   Everything below is real: the diagram matches the code, the line numbers resolve,
