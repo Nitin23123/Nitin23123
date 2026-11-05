@@ -10,7 +10,7 @@
 **I write software that has to prove it works.**
 Designing systems, debugging production incidents, securing APIs, managing databases, integrating AI into real workflows, controlling costs and shipping reliable software.
 
-Full-stack engineer at **Novus Aegis AI** &nbsp;·&nbsp; MCA, **CDAC Noida**
+MCA, **CDAC Noida**
 
 [Portfolio](https://nitintanwar.vercel.app) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/nitin-tanwar-535018303/) &nbsp;·&nbsp;
